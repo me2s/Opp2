@@ -1,0 +1,7 @@
+﻿AutoKautra
+6; Technikos g. - Garliava; 50; 40;
+49; Kauno pilis - Lampedziai; 60; 46;
+61; Gelezinkelio stotis - Mega; 70; 55;
+68; Tilto g. - Vaisvydava; 15; 10;
+41; Chemijos g. - Kaniukai; 30; 29;
+35; Vytenai - Freda; 69; 40;

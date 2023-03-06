@@ -1,0 +1,61 @@
+Kautra
+
+ Trolleybus routes
+-------------------------------------------------------------
+Nr.                Route                  Distance    Stops 
+-------------------------------------------------------------
+1    |  Vaidoto g. - Islandijos pl.      |   45    |   30
+7    |  Partizanu g. - Islandijos pl.    |   40    |   19
+2    |  Kauno pilis - Islandijos pl.     |   35    |   15
+5    |  Petrasiunai - Islandijos pl.     |   25    |   12
+-------------------------------------------------------------
+
+Kautra
+
+ Bus routes
+-------------------------------------------------------------
+Nr.                Route                  Distance    Stops 
+-------------------------------------------------------------
+46   |  Ziegzdriai - Kauno pilis         |   56    |   35
+23   |  Rokai - Domeikava                |   90    |   40
+48   |  Raudondvaris - Kauno pilis       |   60    |   20
+-------------------------------------------------------------
+
+Combined list
+
+ New list
+-------------------------------------------------------------
+Nr.                Route                  Distance    Stops 
+-------------------------------------------------------------
+1    |  Vaidoto g. - Islandijos pl.      |   45    |   30
+7    |  Partizanu g. - Islandijos pl.    |   40    |   19
+2    |  Kauno pilis - Islandijos pl.     |   35    |   15
+46   |  Ziegzdriai - Kauno pilis         |   56    |   35
+48   |  Raudondvaris - Kauno pilis       |   60    |   20
+-------------------------------------------------------------
+
+Combined list
+
+ Rearranged List
+-------------------------------------------------------------
+Nr.                Route                  Distance    Stops 
+-------------------------------------------------------------
+46   |  Ziegzdriai - Kauno pilis         |   56    |   35
+1    |  Vaidoto g. - Islandijos pl.      |   45    |   30
+48   |  Raudondvaris - Kauno pilis       |   60    |   20
+7    |  Partizanu g. - Islandijos pl.    |   40    |   19
+2    |  Kauno pilis - Islandijos pl.     |   35    |   15
+-------------------------------------------------------------
+
+Combined list
+
+ List with removed route
+-------------------------------------------------------------
+Nr.                Route                  Distance    Stops 
+-------------------------------------------------------------
+46   |  Ziegzdriai - Kauno pilis         |   56    |   35
+48   |  Raudondvaris - Kauno pilis       |   60    |   20
+7    |  Partizanu g. - Islandijos pl.    |   40    |   19
+2    |  Kauno pilis - Islandijos pl.     |   35    |   15
+-------------------------------------------------------------
+

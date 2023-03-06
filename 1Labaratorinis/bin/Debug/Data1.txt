@@ -1,0 +1,8 @@
+﻿Kautra
+12; Petrasiunai - Klinikos; 60; 35;
+1; Vaidoto g. - Islandijos pl.; 45; 30;
+7; Partizanu g. - Islandijos pl.; 40; 19;
+8; Draugystes g. - Varniu g.; 48; 22;
+2; Kauno pilis - Islandijos pl.; 35; 15;
+16; Partizanu g. - Centras; 35; 15;
+5; Petrasiunai - Islandijos pl.; 25; 12;

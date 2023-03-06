@@ -1,0 +1,19 @@
+﻿-Get acquainted with the task by which this program is written-
+---------------------------------------------------------
+U14. Viešasis transportas
+Miesto viešojo transporto (autobusų ir troleibusų) maršrutų duomenys yra dviejuose 
+failuose. Pirmoje eilutėje yra transporto įmonės pavadinimas, kitose eilutėse: maršruto 
+numeris, maršruto pavadinimas, ilgis kilometrais ir stotelių skaičius.
+•	Raskite kiekvienos transporto rūšies bendrą maršrutų ilgį. 
+•	Sudarykite bendrą sąrašą tokių maršrutų, kurių ilgiai yra intervale [a; b].
+•	Surikiuokite suformuotą sąrašą pagal stotelių skaičių.
+•	Pašalinkite iš rezultatų sąrašo maršrutus, kurių pavadinime yra nurodytas žodis
+
+---------------------------------------------------------
+-----Guide---
+-------------------
+1. Click the  "Input" button to enter data;
+2. Click the "Find Distance" button to display distances;
+3. Enter desired interval and click "Combine" to combine transport routes;
+4. Click "Rearrange" to arrange data;
+5. Enter a word at the bottom left corner and click "Removal";

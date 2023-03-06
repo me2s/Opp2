@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\OPP2\Pirmas darbas\1Labaratorinis\bin\Debug\Data1.txt
+C:\Users\User\Desktop\OPP2\Pirmas darbas\1Labaratorinis\bin\Debug\Data2.txt
+C:\Users\User\Desktop\OPP2\Pirmas darbas\1Labaratorinis\bin\Debug\1Labaratorinis.exe.config
+C:\Users\User\Desktop\OPP2\Pirmas darbas\1Labaratorinis\bin\Debug\1Labaratorinis.exe
+C:\Users\User\Desktop\OPP2\Pirmas darbas\1Labaratorinis\bin\Debug\1Labaratorinis.pdb
+C:\Users\User\Desktop\OPP2\Pirmas darbas\1Labaratorinis\obj\Debug\1Labaratorinis.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OPP2\Pirmas darbas\1Labaratorinis\obj\Debug\1Labaratorinis.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\OPP2\Pirmas darbas\1Labaratorinis\obj\Debug\_1Labaratorinis.Form1.resources
+C:\Users\User\Desktop\OPP2\Pirmas darbas\1Labaratorinis\obj\Debug\_1Labaratorinis.Properties.Resources.resources
+C:\Users\User\Desktop\OPP2\Pirmas darbas\1Labaratorinis\obj\Debug\1Labaratorinis.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OPP2\Pirmas darbas\1Labaratorinis\obj\Debug\1Labaratorinis.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OPP2\Pirmas darbas\1Labaratorinis\obj\Debug\1Labaratorinis.exe
+C:\Users\User\Desktop\OPP2\Pirmas darbas\1Labaratorinis\obj\Debug\1Labaratorinis.pdb
+C:\Users\User\Desktop\OPP2\Pirmas darbas\1Labaratorinis\bin\Debug\UserGuide.txt

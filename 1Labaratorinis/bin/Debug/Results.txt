@@ -1,0 +1,29 @@
+Kautra
+
+ Trolleybus routes
+-------------------------------------------------------------
+Nr.                Route                  Distance    Stops 
+-------------------------------------------------------------
+12   |  Petrasiunai - Klinikos           |   60    |   35
+1    |  Vaidoto g. - Islandijos pl.      |   45    |   30
+7    |  Partizanu g. - Islandijos pl.    |   40    |   19
+8    |  Draugystes g. - Varniu g.        |   48    |   22
+2    |  Kauno pilis - Islandijos pl.     |   35    |   15
+16   |  Partizanu g. - Centras           |   35    |   15
+5    |  Petrasiunai - Islandijos pl.     |   25    |   12
+-------------------------------------------------------------
+
+AutoKautra
+
+ Bus routes
+-------------------------------------------------------------
+Nr.                Route                  Distance    Stops 
+-------------------------------------------------------------
+6    |  Technikos g. - Garliava          |   50    |   40
+49   |  Kauno pilis - Lampedziai         |   60    |   46
+61   |  Gelezinkelio stotis - Mega       |   70    |   55
+68   |  Tilto g. - Vaisvydava            |   15    |   10
+41   |  Chemijos g. - Kaniukai           |   30    |   29
+35   |  Vytenai - Freda                  |   69    |   40
+-------------------------------------------------------------
+
