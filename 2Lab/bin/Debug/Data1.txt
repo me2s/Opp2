@@ -1,0 +1,8 @@
+﻿Kautra
+12; zetrasiunai - Klinikos; 60; 35;
+1; Vaidoto g. - Islandijos pl.; 45; 30;
+7; Partizanu g. - Islandijos pl.; 40; 19;
+8; braugystes g. - Varniu g.; 48; 35;
+2; aeno pilis - Islandijos pl.; 35; 35;
+16; Partizanu g. - Centras; 35; 15;
+5; auetrasiunai - Islandijos pl.; 125; 35;

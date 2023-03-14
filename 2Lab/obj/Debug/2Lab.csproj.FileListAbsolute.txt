@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\OPP2\2Lab\bin\Debug\Data1.txt
+C:\Users\User\Desktop\OPP2\2Lab\bin\Debug\Data2.txt
+C:\Users\User\Desktop\OPP2\2Lab\bin\Debug\Data3.txt
+C:\Users\User\Desktop\OPP2\2Lab\bin\Debug\Task.txt
+C:\Users\User\Desktop\OPP2\2Lab\bin\Debug\UserGuide.txt
+C:\Users\User\Desktop\OPP2\2Lab\bin\Debug\2Lab.exe.config
+C:\Users\User\Desktop\OPP2\2Lab\bin\Debug\2Lab.exe
+C:\Users\User\Desktop\OPP2\2Lab\bin\Debug\2Lab.pdb
+C:\Users\User\Desktop\OPP2\2Lab\obj\Debug\2Lab.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OPP2\2Lab\obj\Debug\2Lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\OPP2\2Lab\obj\Debug\_2Lab.Form1.resources
+C:\Users\User\Desktop\OPP2\2Lab\obj\Debug\_2Lab.Properties.Resources.resources
+C:\Users\User\Desktop\OPP2\2Lab\obj\Debug\2Lab.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OPP2\2Lab\obj\Debug\2Lab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OPP2\2Lab\obj\Debug\2Lab.exe
+C:\Users\User\Desktop\OPP2\2Lab\obj\Debug\2Lab.pdb

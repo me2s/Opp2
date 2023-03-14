@@ -1,0 +1,22 @@
+C:\Users\edmas\OneDrive\Desktop\OPP L2 Sav\sav\sav\bin\Debug\sav.exe.config
+C:\Users\edmas\OneDrive\Desktop\OPP L2 Sav\sav\sav\bin\Debug\sav.exe
+C:\Users\edmas\OneDrive\Desktop\OPP L2 Sav\sav\sav\bin\Debug\sav.pdb
+C:\Users\edmas\OneDrive\Desktop\OPP L2 Sav\sav\sav\obj\Debug\sav.csproj.AssemblyReference.cache
+C:\Users\edmas\OneDrive\Desktop\OPP L2 Sav\sav\sav\obj\Debug\sav.csproj.SuggestedBindingRedirects.cache
+C:\Users\edmas\OneDrive\Desktop\OPP L2 Sav\sav\sav\obj\Debug\sav.Properties.Resources.resources
+C:\Users\edmas\OneDrive\Desktop\OPP L2 Sav\sav\sav\obj\Debug\sav.csproj.GenerateResource.cache
+C:\Users\edmas\OneDrive\Desktop\OPP L2 Sav\sav\sav\obj\Debug\sav.csproj.CoreCompileInputs.cache
+C:\Users\edmas\OneDrive\Desktop\OPP L2 Sav\sav\sav\obj\Debug\sav.exe
+C:\Users\edmas\OneDrive\Desktop\OPP L2 Sav\sav\sav\obj\Debug\sav.pdb
+C:\Users\edmas\OneDrive\Desktop\OPP L2 Sav\sav\sav\obj\Debug\sav.Form1.resources
+C:\Users\User\Desktop\OPP2\sav\sav\bin\Debug\sav.exe.config
+C:\Users\User\Desktop\OPP2\sav\sav\bin\Debug\sav.exe
+C:\Users\User\Desktop\OPP2\sav\sav\bin\Debug\sav.pdb
+C:\Users\User\Desktop\OPP2\sav\sav\obj\Debug\sav.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OPP2\sav\sav\obj\Debug\sav.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\OPP2\sav\sav\obj\Debug\sav.Form1.resources
+C:\Users\User\Desktop\OPP2\sav\sav\obj\Debug\sav.Properties.Resources.resources
+C:\Users\User\Desktop\OPP2\sav\sav\obj\Debug\sav.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OPP2\sav\sav\obj\Debug\sav.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OPP2\sav\sav\obj\Debug\sav.exe
+C:\Users\User\Desktop\OPP2\sav\sav\obj\Debug\sav.pdb

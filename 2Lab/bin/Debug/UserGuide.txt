@@ -1,0 +1,12 @@
+﻿Naudojama programa skirta surinkti duomenis apie transporto maršrutus ir juos apdoroti.
+
+Paleidus programą atliekame šiuos veiksmus:
+1. Norėdami įvesti duomenis, meniu juostoje pasirenkame Failas > Įvesti duomenis > Troleibusai, pasirenkame Troleibusų tekstinį failą ir įkeliame. Taip padarome ir su autobusų bei papildomu sąrašų duomenimis.
+2. Toliau renkamės meniu punktą Skaičiavimai > Rasti, norėdami sužinoti troleibusų ir autobusų bendrą maršrutų ilgį.
+3. Norėdami pagal nurodyta atstumų intervalą surasti tinkamus maršrutus tekstiniuose laukuose įveskite [a:b] reikšmes ir meniu juostoje spauskite Skaičiavimai > Sujungtas sąrašas.
+4. Norint surikiuoti sąrašą meniu juostoje pasirinkite Skaičiavimai > Rikiuoti.
+5. Įterpti papildomus maršrutus galite pasirinkę meniu juostoje Skaičiavimai > Įterpimas.
+6. Norėdami pašalinti maršrutus, kuriuose yra įvestas žodis, nurodykite nepageidautiną žodį ir meniu juostoje pasirinkite Skaičiavimai > Šalinimas.
+7. Norint susipažinti su užduotimi rinkitės meniu juostoje punktą Pagalba > Užduotis. Jei norite susipažinti su naudojimosi vadovu rinkitės meniu juostoje punktą Pagalba > Nurodymai vartotojui. O norėdami sužinoti apie autorių rinkitės meniu juostoje punktą Pagalba > Autorius.
+
+Baigus darbą spustelkite dešiniajame kampe esantį raudona mygtuką Baigti.

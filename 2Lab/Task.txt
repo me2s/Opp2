@@ -1,0 +1,13 @@
+﻿U2-14. Viešasis transportas.
+
+Miesto viešojo transporto (autobusų ir troleibusų) maršrutų duomenys yra dviejuose failuose. 
+Pirmoje eilutėje yra transporto įmonės pavadinimas, kitose eilutėse: maršruto numeris, 
+maršruto pavadinimas, ilgis kilometrais ir stotelių
+skaičius.
+
+- Raskite kiekvienos transporto rūšies bendrą maršrutų ilgį.
+- Sudarykite bendrą sąrašą tokių maršrutų, kurių ilgiai yra intervale [a; b].
+- Surikiuokite suformuotą sąrašą pagal stotelių skaičių.
+- Pašalinkite iš rezultatų sąrašo maršrutus, kurių pavadinime yra nurodytas žodis.
+- Papildykite surikiuotą rezultatų sąrašą naujais maršrutais. Duomenys yra atskirame faile.
+Pirmoje eilutėje yra transporto įmonės pavadinimas.

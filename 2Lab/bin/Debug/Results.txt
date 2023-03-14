@@ -1,0 +1,124 @@
+Kautra
+
+ Troleibusu marsrutai
+-------------------------------------------------------------
+Nr.              Marsrutas                Atstumas  Stoteles 
+-------------------------------------------------------------
+12   |  zetrasiunai - Klinikos           |   60    |   35
+1    |  Vaidoto g. - Islandijos pl.      |   45    |   30
+7    |  Partizanu g. - Islandijos pl.    |   40    |   19
+8    |  braugystes g. - Varniu g.        |   48    |   35
+2    |  aeno pilis - Islandijos pl.      |   35    |   35
+16   |  Partizanu g. - Centras           |   35    |   15
+5    |  auetrasiunai - Islandijos pl.    |  125    |   35
+-------------------------------------------------------------
+
+AutoKautra
+
+ Autobusu marsrutai
+-------------------------------------------------------------
+Nr.              Marsrutas                Atstumas  Stoteles 
+-------------------------------------------------------------
+6    |  Technikos g. - Garliava          |   50    |   40
+49   |  Kauno pilis - Lampedziai         |   60    |   46
+61   |  Gelezinkelio stotis - Mega       |   70    |   55
+68   |  Tilto g. - Vaisvydava            |   15    |   10
+41   |  Chemijos g. - Kaniukai           |   30    |   29
+35   |  Vytenai - Freda                  |   69    |   40
+-------------------------------------------------------------
+
+Megabombastic
+
+ Papildomi transporto marsrutai
+-------------------------------------------------------------
+Nr.              Marsrutas                Atstumas  Stoteles 
+-------------------------------------------------------------
+11   |  nelezinkelio g. - neMega         |   45    |   15
+69   |  neTilto g. - nVaisvydava         |  157    |    1
+41   |  ahemijos g. - aKaniukai          |   37    |    9
+-------------------------------------------------------------
+
+Troleibusu bendras marsrutu ilgis:   388  km
+
+ 
+Autubusu   bendras marsrutu ilgis:   294  km
+
+ 
+Bendras transporto marsrutu sarasas intervale [30;150]
+
+  
+-------------------------------------------------------------
+Nr.              Marsrutas                Atstumas  Stoteles 
+-------------------------------------------------------------
+12   |  zetrasiunai - Klinikos           |   60    |   35
+1    |  Vaidoto g. - Islandijos pl.      |   45    |   30
+7    |  Partizanu g. - Islandijos pl.    |   40    |   19
+8    |  braugystes g. - Varniu g.        |   48    |   35
+2    |  aeno pilis - Islandijos pl.      |   35    |   35
+16   |  Partizanu g. - Centras           |   35    |   15
+5    |  auetrasiunai - Islandijos pl.    |  125    |   35
+6    |  Technikos g. - Garliava          |   50    |   40
+49   |  Kauno pilis - Lampedziai         |   60    |   46
+61   |  Gelezinkelio stotis - Mega       |   70    |   55
+41   |  Chemijos g. - Kaniukai           |   30    |   29
+35   |  Vytenai - Freda                  |   69    |   40
+-------------------------------------------------------------
+
+
+
+ Bendras surikiuotas transporto marsrutu sarasas
+-------------------------------------------------------------
+Nr.              Marsrutas                Atstumas  Stoteles 
+-------------------------------------------------------------
+61   |  Gelezinkelio stotis - Mega       |   70    |   55
+49   |  Kauno pilis - Lampedziai         |   60    |   46
+6    |  Technikos g. - Garliava          |   50    |   40
+35   |  Vytenai - Freda                  |   69    |   40
+2    |  aeno pilis - Islandijos pl.      |   35    |   35
+5    |  auetrasiunai - Islandijos pl.    |  125    |   35
+8    |  braugystes g. - Varniu g.        |   48    |   35
+12   |  zetrasiunai - Klinikos           |   60    |   35
+1    |  Vaidoto g. - Islandijos pl.      |   45    |   30
+41   |  Chemijos g. - Kaniukai           |   30    |   29
+7    |  Partizanu g. - Islandijos pl.    |   40    |   19
+16   |  Partizanu g. - Centras           |   35    |   15
+-------------------------------------------------------------
+
+
+
+ Naujais marsrutais papildytas transporto masrutu sarasas
+-------------------------------------------------------------
+Nr.              Marsrutas                Atstumas  Stoteles 
+-------------------------------------------------------------
+61   |  Gelezinkelio stotis - Mega       |   70    |   55
+49   |  Kauno pilis - Lampedziai         |   60    |   46
+6    |  Technikos g. - Garliava          |   50    |   40
+35   |  Vytenai - Freda                  |   69    |   40
+2    |  aeno pilis - Islandijos pl.      |   35    |   35
+5    |  auetrasiunai - Islandijos pl.    |  125    |   35
+8    |  braugystes g. - Varniu g.        |   48    |   35
+12   |  zetrasiunai - Klinikos           |   60    |   35
+1    |  Vaidoto g. - Islandijos pl.      |   45    |   30
+41   |  Chemijos g. - Kaniukai           |   30    |   29
+7    |  Partizanu g. - Islandijos pl.    |   40    |   19
+11   |  nelezinkelio g. - neMega         |   45    |   15
+16   |  Partizanu g. - Centras           |   35    |   15
+-------------------------------------------------------------
+
+ 
+
+ Bendras transporto sarasas su ismestu marsrutu/ais, kuriame yra zodis: Islandijos
+-------------------------------------------------------------
+Nr.              Marsrutas                Atstumas  Stoteles 
+-------------------------------------------------------------
+61   |  Gelezinkelio stotis - Mega       |   70    |   55
+49   |  Kauno pilis - Lampedziai         |   60    |   46
+6    |  Technikos g. - Garliava          |   50    |   40
+35   |  Vytenai - Freda                  |   69    |   40
+8    |  braugystes g. - Varniu g.        |   48    |   35
+12   |  zetrasiunai - Klinikos           |   60    |   35
+41   |  Chemijos g. - Kaniukai           |   30    |   29
+11   |  nelezinkelio g. - neMega         |   45    |   15
+16   |  Partizanu g. - Centras           |   35    |   15
+-------------------------------------------------------------
+
